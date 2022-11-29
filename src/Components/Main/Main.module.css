@@ -1,0 +1,22 @@
+.header {
+    height: 70px;
+    background-color: blue;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+}
+
+.h1 {
+    color: yellow;
+}
+
+.content_section {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.main_content {
+    margin-top: 10px;
+}
